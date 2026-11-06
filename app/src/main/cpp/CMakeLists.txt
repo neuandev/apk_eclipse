@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(eclipse_frontend CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(eclipse_frontend SHARED frontend.cpp)
+find_library(log-lib log)
+find_library(android-lib android)
+target_link_libraries(eclipse_frontend ${log-lib} ${android-lib} dl)

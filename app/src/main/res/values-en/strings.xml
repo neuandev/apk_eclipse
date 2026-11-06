@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eclipse Native</string>
+    <string name="library">Library</string>
+    <string name="recents">Recents</string>
+    <string name="all_games">All Games</string>
+    <string name="add_games">Add Games</string>
+    <string name="empty_title">No Games</string>
+    <string name="empty_message">Your library is empty. Tap + to add ROMs (.gb, .gbc, .gba, .nes, .sfc, .smc).</string>
+    <string name="imported">%d game(s) added</string>
+    <string name="unsupported_file">Unsupported file</string>
+    <string name="play">Play</string>
+    <string name="set_cover">Set Cover Art</string>
+    <string name="remove_cover">Remove Cover Art</string>
+    <string name="cover_set">Cover updated</string>
+    <string name="cover_failed">Could not use that image</string>
+    <string name="add_to_recents">Add to Recents</string>
+    <string name="remove_from_recents">Remove from Recents</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="delete_title">Delete Game</string>
+    <string name="delete_message">Are you sure you want to delete \"%s\"? Saves, save states and cover art will be deleted. This cannot be undone.</string>
+    <string name="rename_title">Rename Game</string>
+    <string name="name">Name</string>
+    <string name="more">More options</string>
+    <string name="back">Back</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="save_state_n">Save State %d</string>
+    <string name="load_state_n">Load State %d</string>
+    <string name="reset">Reset</string>
+    <string name="quit">Quit</string>
+    <string name="state_saved">State saved</string>
+    <string name="state_loaded">State loaded</string>
+    <string name="state_failed">Could not complete</string>
+    <string name="no_state">No save state in this slot</string>
+    <string name="select">Select</string>
+    <string name="start">Start</string>
+    <string name="error_title">Something went wrong.</string>
+    <string name="err_core_missing">Core %s not found. Copy the cores to app/src/main/jniLibs/arm64-v8a (see README).</string>
+    <string name="err_core_load">Could not load the emulator core.</string>
+    <string name="err_load_rom">Could not open this game.</string>
+</resources>

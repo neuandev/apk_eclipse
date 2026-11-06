@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Idioma padrão: português (Brasil) -->
+<resources>
+    <string name="app_name">Eclipse Nativo</string>
+    <string name="library">Biblioteca</string>
+    <string name="recents">Recentes</string>
+    <string name="all_games">Todos os Jogos</string>
+    <string name="add_games">Adicionar Jogos</string>
+    <string name="empty_title">Nenhum Jogo</string>
+    <string name="empty_message">Sua biblioteca está vazia. Toque no botão + para adicionar ROMs (.gb, .gbc, .gba, .nes, .sfc, .smc).</string>
+    <string name="imported">%d jogo(s) adicionado(s)</string>
+    <string name="unsupported_file">Arquivo não suportado</string>
+    <string name="play">Jogar</string>
+    <string name="set_cover">Definir Capa</string>
+    <string name="remove_cover">Remover Capa</string>
+    <string name="cover_set">Capa atualizada</string>
+    <string name="cover_failed">Não foi possível usar essa imagem</string>
+    <string name="add_to_recents">Adicionar aos Recentes</string>
+    <string name="remove_from_recents">Remover dos Recentes</string>
+    <string name="rename">Renomear</string>
+    <string name="delete">Excluir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="ok">OK</string>
+    <string name="delete_title">Excluir Jogo</string>
+    <string name="delete_message">Tem certeza de que deseja excluir \"%s\"? Os saves, estados salvos e a capa serão excluídos. Esta ação não pode ser desfeita.</string>
+    <string name="rename_title">Renomear Jogo</string>
+    <string name="name">Nome</string>
+    <string name="more">Mais opções</string>
+    <string name="back">Voltar</string>
+    <string name="pause">Pausar</string>
+    <string name="resume">Continuar</string>
+    <string name="save_state_n">Salvar Estado %d</string>
+    <string name="load_state_n">Carregar Estado %d</string>
+    <string name="reset">Reiniciar</string>
+    <string name="quit">Sair</string>
+    <string name="state_saved">Estado salvo</string>
+    <string name="state_loaded">Estado carregado</string>
+    <string name="state_failed">Não foi possível concluir</string>
+    <string name="no_state">Nenhum estado salvo neste espaço</string>
+    <string name="select">Select</string>
+    <string name="start">Start</string>
+    <string name="error_title">Algo deu errado.</string>
+    <string name="err_core_missing">Núcleo %s não encontrado. Copie os núcleos para app/src/main/jniLibs/arm64-v8a (veja o README).</string>
+    <string name="err_core_load">Não foi possível carregar o núcleo do emulador.</string>
+    <string name="err_load_rom">Não foi possível abrir este jogo.</string>
+</resources>
